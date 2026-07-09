@@ -5,7 +5,7 @@ A simple and clean web application that allows students to paste lecture notes a
 
 ## Features
 - Paste lecture notes into a text area
-- Click "Summarize" to trigger processing
+- Click "Summarise" to trigger processing
 - Loading animation for realistic UX
 - Output area for summary text
 - Modular architecture (HTML, CSS, JS)
