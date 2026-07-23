@@ -18,6 +18,9 @@ A simple and clean web application that allows students to paste lecture notes a
 
 ## Screenshots
 -Week 1 screenshot<img width="627" height="851" alt="image" src="https://github.com/user-attachments/assets/71eb2798-eecf-4950-80cb-e4a852a12295" />
+## Week Two Progress
+Week Two introduced real text‑processing functionality. I implemented automatic text cleaning, sentence extraction, and a simple bullet‑point summariser to provide meaningful output before AI integration. The summary section now displays structured bullet points along with word and sentence counts, marking a clear progression from UI development to functional logic. These improvements prepare the project for Azure OpenAI integration in Week Three.
+
 
 
 
