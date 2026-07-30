@@ -1,0 +1,9 @@
+<svg width="180" height="180" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="20" fill="#4CAF50"/>
+  <text x="50%" y="55%" font-size="48" fill="white" font-family="Arial" text-anchor="middle">
+    AI
+  </text>
+  <text x="50%" y="80%" font-size="22" fill="white" font-family="Arial" text-anchor="middle">
+    Study Assistant
+  </text>
+</svg>

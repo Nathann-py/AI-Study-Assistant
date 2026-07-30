@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Study Assistant</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <img src="logo.svg" alt="AI Study Assistant Logo" class="logo">
+
+    <h1>AI Study Assistant</h1>
+
+    <button id="toggleDarkMode" class="themeBtn">Toggle Dark Mode</button>
+
+    <textarea id="inputText" placeholder="Paste your lecture notes here..."></textarea>
+
+    <button id="summarizeBtn">Summarize</button>
+
+    <div id="loading" class="hidden">
+        <div class="spinner"></div>
+        <p>Generating summary...</p>
+    </div>
+
+    <div id="outputArea">
+        <h2>Summary</h2>
+        <p id="summaryText">AI summary coming soon...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
