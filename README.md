@@ -21,7 +21,14 @@ A simple and clean web application that allows students to paste lecture notes a
 ## Week Two Progress
 Week Two introduced real text‑processing functionality. I implemented automatic text cleaning, sentence extraction, and a simple bullet‑point summariser to provide meaningful output before AI integration. The summary section now displays structured bullet points along with word and sentence counts, marking a clear progression from UI development to functional logic. These improvements prepare the project for Azure OpenAI integration in Week Three.
 
-
+##  Features (Week 3)
+- Clean and responsive UI  
+- Dark mode toggle (fully functional)  
+- Loading animation for realistic processing feedback  
+- Rule‑based text summarisation (bullet points + stats)  
+- Modular architecture (HTML, CSS, JavaScript)  
+- Custom SVG project logo  
+- GitHub Pages‑ready structure 
 
 
 ## Future Improvements
